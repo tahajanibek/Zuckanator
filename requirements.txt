@@ -1,0 +1,4 @@
+instaloader>=4.10
+requests>=2.32.0
+pyfiglet>=0.8.post1
+
