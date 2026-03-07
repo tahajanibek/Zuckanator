@@ -85,7 +85,7 @@ TatNet tarafından geliştirilen bu yazılım, açık kaynaklı ve geliştirilme
     Copyright (C) 2025 Taha Janibek
     Copyright (C) 2025 TatNet
 
-    Bu "TatNet" ve ürettiği ilgili tüm betikler (zuckanator.py) aşağıdaki şartlarla lisanslanmıştır:
+    Taha Janibek tarafından geliştirilen bu yazılım ve tüm betikleri (ör. zuckanator.py) aşağıdaki şartlarla lisanslanmıştır:
 
     Bu program özgür bir yazılımdır: onu yeniden dağıtabilir ve/veya
     GNU Affero Genel Kamu Lisansı'nın 3. versiyonu veya Özgür Yazılım Vakfı 
