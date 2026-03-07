@@ -86,9 +86,9 @@ TatNet tarafından geliştirilen bu yazılım, açık kaynaklı ve geliştirilme
     Copyright (C) 2025 TatNet
 
     Taha Janibek tarafından geliştirilen bu yazılım ve tüm betikleri (ör. zuckanator.py) aşağıdaki şartlarla lisanslanmıştır:
-
+    
     Bu program özgür bir yazılımdır: onu yeniden dağıtabilir ve/veya
-    GNU Affero Genel Kamu Lisansı'nın 3. versiyonu veya Özgür Yazılım Vakfı 
+    GNU Affero Genel Kamu Lisansı'nın 3. versiyonu veya Özgür Yazılım Vakfı
     tarafından yayınlanabilecek daha sonraki herhangi bir sürümü uyarınca değiştirebilirsiniz.
 
     Bu program, faydalı olacağı umuduyla dağıtılmaktadır,
@@ -99,9 +99,9 @@ TatNet tarafından geliştirilen bu yazılım, açık kaynaklı ve geliştirilme
     Önemli fark: AGPL, bu programı ağ üzerinden kullanmanız durumunda
     değiştirilmiş sürümlerini kullanıcılarla paylaşmanızı zorunlu kılar.
 
-    Bu lisansın aslı `LICENSE` ekinde verilmiştir. 
-    Alternatif olarak <https://www.gnu.org/licenses/agpl-3.0.tr.html> 
-    adresinden ulaşabilirsiniz.
+    Bu lisansın tam metni LICENSE dosyasında verilmiştir.
+    Alternatif olarak: https://www.gnu.org/licenses/agpl-3.0.html
+
 
 *NOT: Bu Türkçe çeviri, bilgilendirme amaçlıdır. Yasal bağlayıcılığı olan sürüm, İngilizce olan `LICENSE` dosyası aslıdır, ayrıca buradan da göz atabilirsiniz: [GNU General Public License v3]([https:/www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html)
 
